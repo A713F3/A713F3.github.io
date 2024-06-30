@@ -8,7 +8,7 @@ middle_name:
 last_name: Karagül
 email: info@aliefekaragul.com
 description: My website.
-footer_text: Ali Efe Karagül Portfolio
+footer_text:
 keywords: ali-efe-karagul, portfolio, developer # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -37,14 +37,14 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 
@@ -161,13 +161,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -220,7 +213,10 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: #["_pages"]
+  - _pages/about.md
+  - _pages/projects.md
+  - _pages/cv.md
 exclude:
   - bin/
   - CONTRIBUTING.md
