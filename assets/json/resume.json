@@ -54,14 +54,24 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Google Developer Students Club",
+      "location": "Ankara",
+      "position": "Technical Core Team Member",
+      "url": "https://www.linkedin.com/company/başkent-üniversitesi-google-developers-student-clubs/",
+      "startDate": "2023-10-01",
+      "endDate": "2024-07-01",
+      "summary": "",
+      "highlights": ["Leader of application team.", "A 3-day Flutter training was conducted."]
+    },
+    {
+      "organization": "Başkent Computer Society",
+      "location": "Ankara",
+      "position": "Management Team Member",
+      "url": "https://www.linkedin.com/company/baskentbt/",
+      "startDate": "2022-11-01",
+      "endDate": "2023-10-01",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
@@ -88,88 +98,82 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AI for Medical Diagnosis",
+      "date": "2024-06-01",
+      "issuer": "DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/verify/XWDVEJZWNY56",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Introduction to Computer Vision and Image Processing",
+      "date": "2024-01-01",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/account/accomplishments/verify/5SN5N4YS9247",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "OpenCV Bootcamp",
+      "date": "2023-12-01",
+      "issuer": "OpenCV University",
+      "url": "https://courses.opencv.org/certificates/6ecfac96c35f454ea39ecb4c8dfb000b",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "Python",
+        "Matlab",
+        "Fortran",
+        "Assembly",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Topics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Image Processing",
+        "Computer Vision",
+        "Machine Learning",
+        "Problem Solving"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Processing",
+        "Flutter",
+        "Unity"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+  "languages": [  
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Work Related",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Programming",
+        "Creative Coding"
+      ]
+    },
+    {
+      "name": "Social",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Tennis",
+        "Star Wars"
       ]
     }
   ],
@@ -177,12 +181,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Sea",
+      "summary": "Novel steganography method. Won third place in a TÜBİTAK project competition.",
+      "highlights": ["Steganography", "Tübitak"],
+      "startDate": "2019-02-01",
+      "endDate": "2020-03-01",
+      "url": ""
     }
   ]
 }

@@ -2,7 +2,7 @@
 layout: page
 title: QrSnake.ASM
 description: Snake game in Assembly that fits in a QR code.
-img: assets/img/projects/raytracing_fortran.jpg
+img: assets/img/projects/snake_qr.png
 importance: 2
 category: fun
 related_publications: false

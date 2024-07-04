@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <br>
 
-<h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"></h3>
+<h3>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></h3>
 
 - :books: I am a senior Computer Engineering student at Başkent University.
 - :rocket: I use `MATLAB` and `Python` daily.
